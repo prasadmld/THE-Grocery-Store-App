@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\admin",
+    "\\src\\app\\admin\\add-category",
+    "\\src\\app\\admin\\add-product",
+    "\\src\\app\\admin\\add-tag",
+    "\\src\\app\\admin\\add-tag-to-product",
+    "\\src\\app\\admin\\categories",
+    "\\src\\app\\dashboard"
+  ],
+  "SelectedNode": "\\src\\app\\app.component.html",
+  "PreviewInSolutionExplorer": false
+}

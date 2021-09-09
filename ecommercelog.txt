@@ -1,0 +1,12 @@
+30 Aug 2021 12:11:52,573 INFO  CartServiceImpl: Finding the cart of a user
+30 Aug 2021 12:12:17,269 INFO  CategoryServiceImpl: Adding the category to user
+30 Aug 2021 12:12:19,553 INFO  CartServiceImpl: Finding the cart of a user
+30 Aug 2021 12:12:27,266 INFO  CategoryServiceImpl: Adding the category to user
+30 Aug 2021 12:12:29,468 INFO  CartServiceImpl: Finding the cart of a user
+30 Aug 2021 12:14:32,706 INFO  CartServiceImpl: Finding the cart of a user
+30 Aug 2021 12:14:41,199 INFO  CartServiceImpl: Finding the cart of a user
+30 Aug 2021 12:15:07,708 INFO  CartServiceImpl: entering into AddCarttoUser file
+30 Aug 2021 12:15:38,463 INFO  CartServiceImpl: Finding the cart of a user
+30 Aug 2021 12:15:50,458 INFO  CartServiceImpl: Finding the cart of a user
+30 Aug 2021 12:16:36,947 INFO  CartServiceImpl: Finding the cart of a user
+30 Aug 2021 12:17:00,553 INFO  CartServiceImpl: Finding the cart of a user
