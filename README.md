@@ -13,23 +13,23 @@ The Online Grocery Store System, OGSS, developed to give grocery businesses a de
 ## Features
 
 List of features ready and TODOs for future development
-*Home Page
-*SignUp Page
-*Login Page
-*Browse Product
-*Categories
-*Add Items
-*View Delivery Information
-*View Order List Page
-*Logout Page
+* Home Page
+* SignUp Page
+* Login Page
+* Browse Product
+* Categories
+* Add Items
+* View Delivery Information
+* View Order List Page
+* Logout Page
 
 To-do list:
 * Add new modules like Supervisor, Cheff
-*Allow customers to customize food orders and reservation system
-*Allow to save payment details for future use
-*Allow to process an order as a Guest
-*Allow to find and choose a nearby restaurant
-*Integrate with in store touch screen devices like iPad
+* Allow customers to customize food orders and reservation system
+* Allow to save payment details for future use
+* Allow to process an order as a Guest
+* Allow to find and choose a nearby restaurant
+* Integrate with in store touch screen devices like iPad
 
 ## Getting Started
    
