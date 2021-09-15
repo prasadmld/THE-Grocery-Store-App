@@ -41,10 +41,10 @@ git remote and origin https://github.com/prasadmld/THE-Grocery-Store-App.git
 - Compile Angular in command prompt or Visula Studio and run that project on localhost 4200
 
 ## Usage
->Decreases work load
->Save time
->Customer can easily order food
->Can easily track sale information
+> Decreases work load
+> Save time
+> Customer can easily order food
+> Can easily track sale information
 
 ## Contributors
 
