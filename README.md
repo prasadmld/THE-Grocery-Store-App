@@ -2,7 +2,7 @@
 
 ## Project Description
 
-The Online Grocery Store System, OGSS, developed to give grocery businesses a dedicated online system where customers can shop at their own convenience. The system gives both customers and delivery drivers a real-time dashboard where they can view pending deliveries and their status. New orders are automatically assigned to the drivers with an even distribution algorithm.
+The restaurant management system has four modules namely Customer, Admin, Kitchen Master, Supervisor. Customers can order the dishes, customize the dishes before placing an order. The customer should choose a payment mode before placing the order, A bill is generated after payment. The kitchen Master will receive all the orders placed by the customer and acknowledge them after a dish is served. A supervisor will resolve the tickets raised by the customer. Admin can add dishes, customize the dishes, add/remove Kitchen master, add/remove supervisor
 
 ## Technologies Used
 
