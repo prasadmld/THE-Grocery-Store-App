@@ -2,7 +2,7 @@
 
 ## Project Description
 
-The restaurant management system has four modules namely Customer, Admin, Kitchen Master, Supervisor. Customers can order the dishes, customize the dishes before placing an order. The customer should choose a payment mode before placing the order, A bill is generated after payment. The kitchen Master will receive all the orders placed by the customer and acknowledge them after a dish is served. A supervisor will resolve the tickets raised by the customer. Admin can add dishes, customize the dishes, add/remove Kitchen master, add/remove supervisor
+The Online Grocery Store System, OGSS, developed to give grocery businesses a dedicated online system where customers can shop at their own convenience. The system gives both customers and delivery drivers a real-time dashboard where they can view pending deliveries and their status. New orders are automatically assigned to the drivers with an even distribution algorithm.
 
 ## Technologies Used
 
@@ -21,15 +21,16 @@ List of features ready and TODOs for future development
 * Add Items
 * View Delivery Information
 * View Order List Page
+* Admin page
+* Admin add items page
+* Admin edit items page
 * Logout Page
 
 To-do list:
-* Add new modules like Supervisor, Cheff
-* Allow customers to customize food orders and reservation system
+* Perform Payment gateway
 * Allow to save payment details for future use
-* Allow to process an order as a Guest
-* Allow to find and choose a nearby restaurant
-* Integrate with in store touch screen devices like iPad
+* Allow to find and choose a nearby Grocery stoe
+
 
 ## Getting Started
    
@@ -43,9 +44,9 @@ git remote and origin https://github.com/prasadmld/THE-Grocery-Store-App.git
 ## Usage
 * Decreases work load
 * Save time
-* Customer can easily order food
+* Customer can easily order Groceries
 * Can easily track sale information
 
 ## Contributors
 
-> Prasad Mld, Manideep, Vasu, Rashvika,Subhash, Sadhana
+> Prasad Mld, Manideep, Vasu, Sadhana
